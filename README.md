@@ -1,5 +1,3 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
-
 You need to install pods before running the app.
 
 ![alt text](https://github.com/eertekin99/Todoey/blob/main/Pictures.jpg?raw=true)
